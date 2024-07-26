@@ -23,6 +23,10 @@
       <li>Executar o comando "python -m venv venv" para criar o ambiente virtual do Python.</li>
       <li>Executar o comando ".\venv\Scripts\Activate" se estiver usando o Windows ou "source venv/bin/activate" se tiver usando Linux ou Mac para ativar o ambiente virtual do Python.</li>
     </ul>
+    <li>Instalar as bibliotecas que estão no arquivo "requirements.txt"</li>
+    <ul>
+      <li>Executar o comando "pip install -r requirements.txt" para instalar todas as dependências que são utilizadas nesse projeto.</li>
+    </ul>
     <li>Realizar a migration do banco de dados SQLite</li>
       <ul>
         <li>Executar o comando "python manage.py migrate" para realizar a migration do banco de dados.</li>
