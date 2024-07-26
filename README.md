@@ -38,7 +38,7 @@
       </ul>
     <li>E por fim, executar a aplicação Django</li>
       <ul>
-        <li>Executar o comando "python manage.py runserver" para rodar a aplicação localmente</li>
+        <li>Executar o comando "python manage.py runserver" para rodar a aplicação localmente.</li>
       </ul>
   </ol>
 </div>
