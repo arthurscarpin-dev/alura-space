@@ -1,64 +1,21 @@
-# Alura Space
-#### This gallery of space photos, developed to put in practice the knowledge of Python using.
+# ALURA SPACE
+A photo gallery of the space developed in Django.
 
-<div>
-  <p>The intencion this galey of photos, posibilities the user execute the API endpoints.</p>
-</div>
+### Tech Stack:
+<p align="left">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,django,sqlite"/>
+    </a>
+</p>
 
-## Technologies used:
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" height="40" />
-</div>
-
-## Project Interface:
+### Graphical interface:
 ![alura-space](https://github.com/user-attachments/assets/d28093a0-648e-4370-92ca-5ba98ea7beb6)
 
-### How execute?
-<div>
-  <p>To execute this project is necessary just make clone of repository through the command "git clone" or make go down file .zip through GitHub, with the local repository, you can follow the steps following:</p>
-  <ol>
-    <li>Create and activate the virtual environment using the command prompt</li>
-    <ul>
-      <li>Execute the command "python -m venv venv" to create the virtual environment of Python.</li>
-      <li>Execute the command ".\venv\Scripts\Activate" or if you are using Windows execute "source venv/bin/activate" if have using Linux or Mac to active the virtual environment of Python.</li>
-    </ul>
-    <li>Install libraries that are in the file "requirements.txt"</li>
-    <ul>
-      <li>Execute the command "pip install -r requirements.txt" to install every dependencies that are used in this project.</li>
-    </ul>
-    <li>Make a migration of SQLite database</li>
-      <ul>
-        <li>Execute the command "python manage.py migrate" to make a migration of database.</li>
-      </ul>
-    <li>Create super user of Django admin</li>
-      <ul>
-        <li>Execute the command "python manage.py createsuperuser" to create super user.</li>
-        <li>I will be requested the username, email, password and confirmation password.</li>
-      </ul>
-    <li>And finally, execute the Django App</li>
-      <ul>
-        <li>Execute the command "python manage.py runserver" to run the local app.</li>
-      </ul>
-  </ol>
-</div>
-
-# Alura Space
-#### Essa galeria de fotos espacial, foi desenvolvida para colocar em prática os meus conhecimentos de Python utilizando o Django.
-<div>
-  <p>O intuito dessa galeria de fotos, possibilita o usuário de realizar um CRUD completo.</p>
-</div>
-
-### Tecnologias utilizadas:
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" height="40" />
-</div>
-
-### Interface do projeto:
-![alura-space](https://github.com/user-attachments/assets/d28093a0-648e-4370-92ca-5ba98ea7beb6)
+### How to run?
+1. Clone the remote repository.
+```
+git clone 
+```
 
 ### Como executar?
 <div>
